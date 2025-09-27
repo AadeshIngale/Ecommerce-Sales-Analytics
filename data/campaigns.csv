@@ -1,0 +1,11 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget
+CAM101,Social Promo 1,social,2025-07-11,2025-09-09,2575
+CAM102,Affiliate Promo 2,affiliate,2022-02-10,2022-03-28,18057
+CAM103,Email Promo 3,email,2024-09-01,2024-10-29,6036
+CAM104,Email Promo 4,email,2022-09-01,2022-09-13,2972
+CAM105,Email Promo 5,email,2024-11-06,2024-12-13,10894
+CAM106,Email Promo 6,email,2024-07-19,2024-08-10,8908
+CAM107,Social Promo 7,social,2025-03-15,2025-05-22,4708
+CAM108,Search Promo 8,search,2024-01-29,2024-03-10,9947
+CAM109,Affiliate Promo 9,affiliate,2023-05-17,2023-06-27,17277
+CAM110,Affiliate Promo 10,affiliate,2023-01-16,2023-01-31,9183
